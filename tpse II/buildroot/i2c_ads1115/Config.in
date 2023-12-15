@@ -1,0 +1,4 @@
+config BR2_PACKAGE_I2C_ADS1115
+	bool "i2c_ads1115"
+	help
+		A friendly program that use ads1115 adc with i2c

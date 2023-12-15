@@ -1,0 +1,4 @@
+config BR2_PACKAGE_HELLO
+	bool "hello"
+	help
+		Linux Kernel Hello World With Parameters

@@ -1,0 +1,4 @@
+config BR2_PACKAGE_BBBTCRBOT
+	bool "bbbtcrbot"
+	help
+		Um seguidor de linha que tira os obstáculos do caminho

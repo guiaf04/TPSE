@@ -1,0 +1,4 @@
+config BR2_PACKAGE_LEDSALEATORY
+	bool "ledsaleatory"
+	help
+		A friendly program that blink the leds aleatory of bbb
