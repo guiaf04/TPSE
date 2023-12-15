@@ -1,0 +1,5 @@
+config BR2_PACKAGE_KERNEL_MODULE_HELLO_PARAM
+	bool "hello_param"
+	depends on BR2_LINUX_KERNEL
+	help
+		Linux Kernel Hello World With Parameters

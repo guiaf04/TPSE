@@ -1,0 +1,1 @@
+cmd_/home/guilherme/UFC/TPSEII/drivers/driver_hello_param/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/guilherme/UFC/TPSEII/drivers/driver_hello_param/Module.symvers -T /home/guilherme/UFC/TPSEII/drivers/driver_hello_param/modules.order -i Module.symvers -e 

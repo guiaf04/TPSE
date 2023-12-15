@@ -1,0 +1,5 @@
+config BR2_PACKAGE_KERNEL_MODULE_HELLO
+	bool "hello"
+	depends on BR2_LINUX_KERNEL
+	help
+		Linux Kernel Hello World

@@ -1,0 +1,1 @@
+cmd_/home/guilherme/UFC/TPSEII/drivers/driver_hello/hello.ko := arm-linux-gnueabihf-ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/guilherme/UFC/TPSEII/drivers/driver_hello/hello.ko /home/guilherme/UFC/TPSEII/drivers/driver_hello/hello.o /home/guilherme/UFC/TPSEII/drivers/driver_hello/hello.mod.o;  true
